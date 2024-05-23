@@ -45,6 +45,8 @@ Má příprava na maturitu ze ZSV spočívala ve tvorbě tohoto decku a v jeho n
 
 ![Má statistika](img/usage.png)
 
+Má strast ale přinesla ovoce, paní Nováková mně dokonte i tykala 💀.
+
 ## Přispívání
 
 Pokud najdete chyby nebo máte návrhy na zlepšení, neváhejte otevřít issue nebo pull request.
