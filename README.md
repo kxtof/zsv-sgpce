@@ -1,6 +1,6 @@
-# ZSV-ANKI, SGPCE
+# ZSV, SGPCE
 
-Tento repository obsahuje Anki balíček vytvořený pro přípravu na maturitu ze společenských věd. Skládá se z téměř 1800 kartiček vytvořených z mých zápisů a také zápisů ročníků přede mnou, které se ke mě dostaly.
+Tento repository obsahuje Anki balíček vytvořený pro přípravu na maturitu ze společenských věd. Skládá se z téměř 1800 kartiček vytvořených z mých zápisů a zápisů ročníků přede mnou, které se ke mě dostaly. Tyto zápisy jsou zde také přístupné.
 
 ## Obsah
 
@@ -15,10 +15,10 @@ Kartičky jsou tématicky rozdělené do 25 maturitních otázek. Kvalita bohuž
 2. **Stažení a Import Balíčku:**
    - Stáhněte si tento repository jako ZIP soubor nebo použijte git pro klonování repository:
      ```bash
-     git clone https://github.com/vase-uzivatelske-jmeno/nazev-repository.git
+     git clone https://github.com/kXtof/zsv-sgpce.git
      ```
-   - Otevřete Anki a jděte na `Soubor` > `Importovat`.
-   - Vyberte soubor s příponou `.apkg`, který jste stáhli z tohoto repository, a importujte ho.
+   - Otevřete Anki a jděte na `File` > `Import`.
+   - Vyberte soubor `ZSV.apkg`, který jste stáhli z tohoto repository, a importujte ho.
 
 ## Jak správně používat Anki
 
@@ -39,7 +39,7 @@ Doporučený postup učení:
 
 ## Přispívání
 
-Pokud najdete chyby nebo máte návrhy na zlepšení, neváhejte otevřít issue nebo pull request. Vaše příspěvky jsou vítány!
+Pokud najdete chyby nebo máte návrhy na zlepšení, neváhejte otevřít issue nebo pull request.
 
 ## Licence
 
