@@ -45,7 +45,7 @@ Má příprava na maturitu ze ZSV spočívala ve tvorbě tohoto decku a v jeho n
 
 ![Má statistika](img/usage.png)
 
-Má strast ale přinesla ovoce, paní Nováková mně dokonte i říkala křestním 💀.
+Má strast ale přinesla ovoce, paní Nováková mně dokonce i říkala křestním 💀.
 
 ## Přispívání
 
